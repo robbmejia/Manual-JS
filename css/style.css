@@ -1,0 +1,23 @@
+html, body{
+    background-color:bisque;
+    max-width:1100px;
+    min-width: 20%;
+    height:auto;
+    margin: 0 auto;
+    padding: 10px; 
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    color: #212426;
+}
+a {
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 1.1em;
+    color: dimgrey;
+}
+a:hover{
+    color: crimson;
+    font-size: 1.12em;
+}
